@@ -3,7 +3,9 @@
 ![sidebar](https://github.com/KuleGizem/astronomiuul/assets/156896199/b0acfb1f-7814-4461-90fa-b486ed039ea7)
 
 
-# İş problemi : California Institute of Technology Jet Propulsion Laboratory tarafından tutulan resmi veri seti kullanılarak, asteroidlerin çaplarının tahmin edilmesi, madencilik potansiyellerinin belirlenmesi, olası çarpma senaryolarının analiz edilmesi ve bu çarpışmalar sonucu oluşacak kraterlerin boyutlarının hesaplanması hedeflenmektedir.
+# İş problemi  
+
+California Institute of Technology Jet Propulsion Laboratory tarafından tutulan resmi veri seti kullanılarak, asteroidlerin çaplarının tahmin edilmesi, madencilik potansiyellerinin belirlenmesi, olası çarpma senaryolarının analiz edilmesi ve bu çarpışmalar sonucu oluşacak kraterlerin boyutlarının hesaplanması hedeflenmektedir.
 
 # Veri Seti
 
